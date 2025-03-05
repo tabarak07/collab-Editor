@@ -80,4 +80,9 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ---
 OUTPUTS- 
+![Image](https://github.com/user-attachments/assets/d70e2e89-e6d9-43a8-8981-706799c04ac8)
+![Image](https://github.com/user-attachments/assets/759e3287-f4ea-4c59-b0ba-5b6abde16f9d)
+![Image](https://github.com/user-attachments/assets/7f9814a5-86bb-4298-be6a-bc65c5111d45)
+![Image](https://github.com/user-attachments/assets/5d20b5e8-2a33-4cc2-8991-245beef1db31)
+![Image](https://github.com/user-attachments/assets/8db36cf0-840b-408e-8634-67ed7dc02321)
 
